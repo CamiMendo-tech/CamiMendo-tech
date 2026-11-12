@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Camila Mendoza <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Camila Mendoza </h1>
 <h3 align="center">📊 A passionate Data Analytics student</h3>
 
 <p align="center">
