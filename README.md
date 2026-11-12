@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Camila Mendoza <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Data Analytics student</h3>
+<h3 align="center">📊 A passionate Data Analytics student</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk1NXZjODRjYXJzZGFyb3ZkMGR3c3BmcTdtZTdwY2F2Y2oyMmdrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XRj99a68ZhhIrHReGc/giphy.gif" width="100%" alt="Data Analytics Banner">
+  <img src="./banner.gif" width="100%" alt="Data Analytics Banner">
 </p>
 
 - 🔭 I’m currently working on **exploratory data analysis (EDA) and data cleaning projects**
@@ -16,7 +16,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camila.mendoza.data@gmail.com)
 
 </div>
