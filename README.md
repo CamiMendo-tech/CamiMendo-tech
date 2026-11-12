@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Camila Mendoza <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Data Analytics student</h3>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk1NXZjODRjYXJzZGFyb3ZkMGR3c3BmcTdtZTdwY2F2Y2oyMmdrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XRj99a68ZhhIrHReGc/giphy.gif" width="100%" alt="Data Analytics Banner">
+</p>
+
 - 🔭 I’m currently working on **exploratory data analysis (EDA) and data cleaning projects**
 
 - 🌱 I’m currently learning **Python, SQL and data visualization**
@@ -34,7 +38,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&theme=react&layout=compact" />
+</p>
 
 ------
 
-[Camila Mendoza](https://github.com/CamiMendo-tech)
+[Camila Mendoza](https://github.com/YOUR-GITHUB-USERNAME)
